@@ -123,7 +123,8 @@ public class MainActivity extends ActionBarActivity {
                     "Thursday - Asteroids - 75/65",
                     "Friday - Shit- 80",
                     "Saturday - Beautiful - 90",
-                    "Sunday - Calm - 85"
+                    "Sunday - Calm - 85",
+                    "Next weel - Breezy"
             };
 
             List<String> weekForecast = new ArrayList<String>(  Arrays.asList(forecastArray));
